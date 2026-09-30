@@ -1,1 +1,1 @@
-mcp_test_ synthetic commit source candidate 1
+mcp_test_ synthetic commit source candidate 2
